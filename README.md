@@ -1,17 +1,1 @@
-Jabba
-=====
-
-Jabba, a hybrid error correction tool for sequencing reads.
-
-To build Jabba run these commands in the `Jabba` folder:
-
-```bash
-> mkdir -p build
-> cd build
-> cmake ../
-> make
-```
-
-
-See the [Jabba manual](https://github.com/gmiclotte/Jabba/wiki) to get started.
-
+This repository is no longer supported, please visit [the biointec github page](https://github.com/biointec/jabba) to find the latest version of Jabba.
